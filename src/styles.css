@@ -1,11 +1,4 @@
 /* You can add global styles to this file, and also import other style files */
-.bg {
-  flex: 1;
-  display: flex;
-  position: relative;
-  z-index: 1;
-  padding: 20px;
-}
 
 html,
 body {
